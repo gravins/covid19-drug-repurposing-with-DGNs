@@ -1,5 +1,5 @@
 # Deep Graph Networks for Drug Repurposing with Multi-Protein Targets (with COVID-19 use case)
-Official code repository for our paper ***Deep Graph Networks for Drug Repurposing with Multi-Protein Targets***.
+Official code repository for our paper ***[Deep Graph Networks for Drug Repurposing with Multi-Protein Targets](https://ieeexplore.ieee.org/document/10026802)***.
 
 If you find our work useful for your research, please consider citing the following paper:
 
