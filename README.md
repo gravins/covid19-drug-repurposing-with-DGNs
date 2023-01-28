@@ -16,6 +16,8 @@ If you find our work useful for your research, please consider citing the follow
 
 
 ## Installation
+**The dataset folder can be downloaded from [here](https://www.dropbox.com/s/685d7h2q8facao3/dataset.zip?dl=0).**
+
 We provide a script to install the environment. You will need the conda package manager, which can be installed from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
 To install the required packages (tested on a linux terminal):
