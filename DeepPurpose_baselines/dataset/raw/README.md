@@ -1,0 +1,1 @@
+`protein-protein.tab`, `Severe_acute_respiratory_syndrome_coronavirus_2.tab`, `drug-host_uniprot.tab`, `drug-host.tab`, and `drug-structures.sdf` can be downloaded from our resource  https://github.com/CLAIRE-COVID-T4/covid-data
