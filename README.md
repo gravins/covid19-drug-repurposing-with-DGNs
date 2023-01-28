@@ -16,8 +16,6 @@ If you find our work useful for your research, please consider citing the follow
 
 
 ## Installation
-**The dataset folder can be downloaded from [here](https://www.dropbox.com/s/685d7h2q8facao3/dataset.zip?dl=0).**
-
 We provide a script to install the environment. You will need the conda package manager, which can be installed from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
 To install the required packages (tested on a linux terminal):
@@ -32,6 +30,9 @@ To install the required packages (tested on a linux terminal):
     - `./requirements/install_cpu.sh`
 
 The script will create a virtual environment named `covid-cpu`, with all the required packages needed to run our code.
+
+## Data download
+The zipped dataset folder can be downloaded from [here](https://www.dropbox.com/s/685d7h2q8facao3/dataset.zip?dl=0).
 
 ## Run the experiment
 _Note: To run the experiment is fundamental to define the task and model in the file run.sh or run_cluster.sh files._
